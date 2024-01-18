@@ -1,0 +1,1 @@
+This HtmltoJson converter python program uses Beautiful Soup module from bs4 package. This helps to identify and classify the elements based on the tags, attributes and classes in the html file. Then the json string is created using dictionary and it is dumped to the result.json file using dump() function.
