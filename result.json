@@ -1,0 +1,15 @@
+{
+   "capitals": [
+      {
+         "capital": "Michigan  ",
+         "state": "Lansing"
+      },
+      {
+         "capital": " California",
+         "state": "Sacramento"
+      }
+   ],
+   "summary": {
+      "Number of Capitals ": 2
+   }
+}
